@@ -7,7 +7,7 @@ export const areaContent: ArenaState[] = [
     deckA: "a-trojahn",
     deckB: "b-jorge",
     playerAName: "Enzo",
-    playerBName: "Artur",
+    playerBName: " Artur",
   },
   // apenas modifique a estrutura atual
 ];
